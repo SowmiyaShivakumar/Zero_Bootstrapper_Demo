@@ -1,3 +1,9 @@
 fastapi
 uvicorn
 mysql-connector
+
+
+fastapi
+uvicorn
+mysql-connector
+httpx
